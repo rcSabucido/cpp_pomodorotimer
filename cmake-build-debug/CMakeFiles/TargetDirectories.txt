@@ -1,0 +1,3 @@
+/home/clyd/repos/cpp_pomodorotimer/cmake-build-debug/CMakeFiles/cpp_pomodorotimer.dir
+/home/clyd/repos/cpp_pomodorotimer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/clyd/repos/cpp_pomodorotimer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
